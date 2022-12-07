@@ -1,0 +1,3 @@
+C:/Users/Andryweru/CLionProjects/GraphSort/cmake-build-debug/CMakeFiles/GraphSort.dir
+C:/Users/Andryweru/CLionProjects/GraphSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Andryweru/CLionProjects/GraphSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

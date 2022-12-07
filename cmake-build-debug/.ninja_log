@@ -1,0 +1,5 @@
+# ninja log v5
+2	287	6919726992674206	CMakeFiles/GraphSort.dir/main.cpp.obj	54e70db9c10910d2
+288	359	6919726993380183	GraphSort.exe	3042a41331a15257
+6	53	6919726845493133	CMakeFiles/GraphSort.dir/tests/ConverterTests.cpp.obj	2c23448961f93da7
+4	87	6919726845832232	CMakeFiles/GraphSort.dir/tests/AbsoluteDateTest.cpp.obj	d01d73e6919730a5

@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2022.2.3/bin/ninja/win/ninja.exe" -G Ninja -S C:\Users\Andryweru\CLionProjects\GraphSort -B C:\Users\Andryweru\CLionProjects\GraphSort\cmake-build-debug
+CMake Error at CMakeLists.txt:7 (add_subdirectory):
+  add_subdirectory given source "GraphSort/tests/Google_tests" which is not
+  an existing directory.
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Andryweru/CLionProjects/GraphSort/cmake-build-debug/CMakeFiles/CMakeOutput.log".
